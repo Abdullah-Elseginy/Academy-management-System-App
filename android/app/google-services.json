@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598378220027",
+    "project_id": "fci-tu",
+    "storage_bucket": "fci-tu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598378220027:android:a9c36f3096112d7da0235e",
+        "android_client_info": {
+          "package_name": "com.fcitugrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598378220027-9orrheet15u615lvqcuaasj2lbk4fgif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-LKyTiKTHYvRhlofVFNeX1e4LRZO0Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598378220027-9orrheet15u615lvqcuaasj2lbk4fgif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
